@@ -14,7 +14,7 @@ After completing the analysis of the stocks you can clearly see that 2018 was no
 
 ### Analysis
 
-Before refactoring the code, I began by copying the code that was needed to create the input box, chart headers, ticker array, and to activate the appropriate worksheet. The steps were then listed out in order to set the structure for the refactoring. Below is the instruction and code as written in the file.
+Before refactoring the code, I began by copying the code that was needed to create the input box, chart headers, ticker array, and to activate the appropriate worksheet. The steps were then listed out in order to set the structure for the refactoring.
 
 # Summary
 
